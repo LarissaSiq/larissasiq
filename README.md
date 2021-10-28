@@ -1,6 +1,7 @@
-## Oi, eu sou a Larissa Siqueira :)
+## Oi, eu sou a Larissa!:)
 
 - 💻 Desenvolvedora Front-end
+- :books: Estudando Back-end
 - 👩🏻 ela/dela
 
 <div align="center">
