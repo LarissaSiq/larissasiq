@@ -1,4 +1,4 @@
-## Oi, eu sou a Larissa!:)
+## Oi, eu sou a Larissa! :)
 
 - 💻 Desenvolvedora Front-end
 - :books: Estudando Back-end
