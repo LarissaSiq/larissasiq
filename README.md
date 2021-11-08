@@ -1,7 +1,6 @@
 ## Oi, eu sou a Larissa! :)
 
 - 💻 Desenvolvedora Front-end
-- :books: Estudando sobre Estrutura de Dados
 - 👩🏻 ela/dela
 
 <div align="center">
